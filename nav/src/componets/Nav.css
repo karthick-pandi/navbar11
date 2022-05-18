@@ -1,0 +1,14 @@
+.box{
+    border: 1px solid black;
+    height: 40px;
+    display: flex;
+    flex-direction: 40px;
+    background-color: black;
+}
+.box > a{
+    margin-left: 40px;
+    color: white;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
